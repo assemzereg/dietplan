@@ -1,0 +1,7 @@
+{
+  "name": "dietPlan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
